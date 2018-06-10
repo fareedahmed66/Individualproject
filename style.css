@@ -1,0 +1,113 @@
+.navbar{ color:#f00; background-color: #999; font-size:18px;}
+.navbar td:navsearch { background-color:none; }
+.navbar td:hover { border:2px;
+background-color:#0F3}
+/* unvisited link */
+a:link {
+    color: red;
+}
+a
+{
+   text-decoration:none;
+}
+
+a.underlined
+{
+   text-decoration:underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+} 
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+
+span {background-color:#0F0;
+padding:5px;
+display:block;
+width:180px;
+font-weight:bold;
+font-family:"Arial Black", Gadget, sans-serif;
+}
+
+.sidebar {font-size:22px; vertical-align:top; }
+
+
+.content {margin: 10px 10px 10px 10px}
+
+body {background-image:url(light.jpg);
+background-position: center;
+    background-repeat: no-repeat;
+        background-size: cover;}
+		
+.price { font-size:22px; }
+
+.maintd table, td, th { border: 1px solid gray }
+
+.logotd { height:50px; vertical-align:top; width:100px; }
+
+.links { border:none; width:"100%"; text-align:center; }
+
+ul.arrows {
+	list-style-image: url('bulletin25.png');
+	display: block; 
+	text-align:left; 
+} 
+
+.navsearch {  text-align:right; 
+    vertical-align:bottom;  }
+
+.linkstd { vertical-align:bottom; }
+
+.links { width:100%; }
+
+.sidebartd { vertical-align:top;}
+
+#arrowss li {
+  list-style-image: url('bulletin25.png'); 
+  float: left;
+  list-style: none;
+  margin-right: 30px;
+  width: 150px;
+  line-height: 60px;
+  display:inline-block;
+
+}
+
+div.cartico { content:url(cart.png);
+	display: inline-block;
+    width: 20px; 
+    height: 20px;
+}
+
+
+h3 { font-size:36px;
+	text-decoration:underline;}
+	
+.img {margin-right:20px}
+
